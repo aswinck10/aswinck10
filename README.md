@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @aswinck10
-- 👀 I’m interested in DATA ANALYSIS...
-- 🌱 I’m currently working on data science projects
-- 💞️ I’m looking to collaborate on  DATA ANALYTICS...
-- 📫 How to reach me aswin9496@gmail.com...
+# Hi, I'm Aswin 👋
 
-<!---
-aswinck10/aswinck10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Power BI & SQL Data Analyst focused on KPI reporting and operational analytics.
+
+🎓 MSc Data Science  
+📊 Specialising in Financial & Healthcare Analytics  
+📈 Strong in Data Modelling, DAX & SQL  
+
+---
+
+## 🔧 Technical Skills
+- Power BI (Power Query, DAX, Data Modelling)
+- SQL (JOIN, GROUP BY, Aggregations)
+- Excel
+- Data Quality & Validation
+
+---
+
+## 📊 Portfolio Projects
+- Financial Performance Dashboard
+- NHS Operational Performance Dashboard
+
+---
+
+📫 Open to Data Analyst / Reporting Analyst opportunities in the UK.
