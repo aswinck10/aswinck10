@@ -1,25 +1,12 @@
-# Hi, I'm Aswin 👋
+Hi, I'm Aswin 👋
 
-Power BI & SQL Data Analyst focused on KPI reporting and operational analytics.
+Data Analyst | SQL · Python · Power BI · Excel 📍 Dubai, United Arab Emirates · Available to join immediately
 
-🎓 MSc Data Science  
-📊 Specialising in Financial & Healthcare Analytics  
-📈 Strong in Data Modelling, DAX & SQL  
+I turn business data into clear answers that managers can act on: where profit is lost, which customers are at risk, and what to change next.
 
----
+🎓 Master of Science in Data Science with Advanced Practice, Northumbria University, United Kingdom
+🎓 Bachelor of Technology in Electronics and Communications Engineering, India
+👥 Almost four years as a Team Lead at Wipro Limited, preparing performance reports for management
+🇬🇧 United Kingdom experience in customer service, healthcare administration and operations
 
-## 🔧 Technical Skills
-- Power BI (Power Query, DAX, Data Modelling)
-- SQL (JOIN, GROUP BY, Aggregations)
-- Excel
-- Data Quality & Validation
-
----
-
-## 📊 Portfolio Projects
-- Financial Performance Dashboard
-- NHS Operational Performance Dashboard
-
----
-
-📫 Open to Data Analyst / Reporting Analyst opportunities in the UK.
+🔍 Open to Data Analyst, Business Intelligence Analyst, Reporting Analyst and Management Information Systems Analyst roles in the United Arab Emirates
