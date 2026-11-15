@@ -35,7 +35,7 @@ High sales don't always mean high profit. I used SQL to find which products, dis
 - **Key finding:** Tables and Bookcases lost $132,645; without these losses, profit would be about 8.7% higher.
 - **Recommendation:** Fix or cut loss-making furniture and set a 5% discount limit, with manager approval above it.
 
-*More projects coming soon: customer segmentation and churn (Python), and a Power BI sales dashboard.*
+
 
 ---
 
