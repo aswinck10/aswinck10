@@ -35,7 +35,7 @@ High sales don't always mean high profit. I used SQL to find which products, dis
 - **Key finding:** Tables and Bookcases lost $132,645; without these losses, profit would be about 8.7% higher.
 - **Recommendation:** Fix or cut loss-making furniture and set a 5% discount limit, with manager approval above it.
 
-- ### [Executive Sales Dashboard: Where Does Revenue Come From?](https://github.com/aswinck10/Financial-Performance-Dashboard)
+### [Executive Sales Dashboard: Where Does Revenue Come From?](https://github.com/aswinck10/Financial-Performance-Dashboard)
 **Power BI · DAX · Power Query**
 
 A one-page dashboard that lets a manager see revenue, orders and customers at a glance, then drill into regions and months.
