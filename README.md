@@ -35,8 +35,13 @@ High sales don't always mean high profit. I used SQL to find which products, dis
 - **Key finding:** Tables and Bookcases lost $132,645; without these losses, profit would be about 8.7% higher.
 - **Recommendation:** Fix or cut loss-making furniture and set a 5% discount limit, with manager approval above it.
 
+- ### [Executive Sales Dashboard: Where Does Revenue Come From?](https://github.com/aswinck10/Financial-Performance-Dashboard)
+**Power BI · DAX · Power Query**
 
+A one-page dashboard that lets a manager see revenue, orders and customers at a glance, then drill into regions and months.
 
+- **Key finding:** About £872K revenue from 1,975 orders and 736 customers. The West and East regions bring in about 60% of revenue, and sales peak in February and August.
+- **Recommendation:** [your recommendation, for example plan stock and staffing ahead of the February and August peaks]
 ---
 
 ## 📫 Contact
